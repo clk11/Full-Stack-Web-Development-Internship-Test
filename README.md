@@ -14,7 +14,7 @@ To start the application, follow these steps:
      ```
 
 3. **Run the Project:**
-   - Execute the following command to start the development server:
+   - Execute the following command to start the development servers:
      ```bash
      npm run dev
      ```
